@@ -94,34 +94,38 @@ Jullie hebben aan het eind van elke BO blok beiden zelf gecommit op je eigen bra
 
 ## Mechanic Tutorials
 
+### Tutorial 0
+
+[Ontwikkelomgeving opzetten en simpele **_jump_** mechanic](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_0)
+
 ### Tutorial 1
 
-[Ontwikkelomgeving opzetten en simpele **_jump_** mechanic](https://github.com/erwinhenraat/SDM3PROG/tree/master/les1)
+[**_mixamo.com_** placeholder animaties aansturen](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_1)
 
 ### Tutorial 2
 
-[**_mixamo.com_** placeholder animaties aansturen](https://github.com/erwinhenraat/SDM3PROG/tree/master/les2)
+[Beweging en besturing van gameobjecten](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_2)
 
 ### Tutorial 3
 
-[Beweging en besturing van gameobjecten](https://github.com/erwinhenraat/SDM3PROG/tree/master/les3)
+[Springen op platforms (& traps)](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_3)
 
 ### Tutorial 4
 
-[Springen op platforms (& traps)](https://github.com/erwinhenraat/SDM3PROG/tree/master/les4)
+[Verzamelen van pickups en score bijhouden](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_4)
 
 ### Tutorial 5
 
-[Verzamelen van pickups en score bijhouden](https://github.com/erwinhenraat/SDM3PROG/tree/master/les5)
+[Schieten van kogels en vernietigen van obstakels](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_5)
 
 ### Tutorial 6
 
-[Schieten van kogels en vernietigen van obstakels](https://github.com/erwinhenraat/SDM3PROG/tree/master/les6)
+[Bijhouden van levens en creeeren van vijanden](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_6)
 
 ### Tutorial 7
 
-[Bijhouden van levens en creeeren van vijanden](https://github.com/erwinhenraat/SDM3PROG/tree/master/les7)
+[Verdieping in het springen](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_7)
 
 ### Tutorial 8
 
-[Verdieping in het springen](https://github.com/erwinhenraat/SDM3PROG/tree/master/les8)
+[Maak een exploding trap](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_8)
