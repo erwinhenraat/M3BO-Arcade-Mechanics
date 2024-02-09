@@ -70,7 +70,7 @@ Jullie hebben aan het eind van elke BO blok beiden zelf gecommit op je eigen bra
 
 ## Deadlines:
 
-### vr 1 mrt:
+### vr 8 mrt:
 
 1e tutorial of eigen mechanic af? in eigen branches gecommit en op github? afgewerkt met minimaal 3d art van assetstore of mixamo.
 
@@ -79,15 +79,15 @@ Jullie hebben aan het eind van elke BO blok beiden zelf gecommit op je eigen bra
 - 2e tutorial of eigen mechanic af? in eigen branches gecommit en op github? afgewerkt met minimaal 3d art van assetstore of mixamo.
 - Minimaal 1 mechanic op papier uitgewerkt. dmv een concrete omschrijving en een schets van wat de mechanic moet doen. Dit zet je op je **Readme**.
 
-### vr. 29 mrt:
+### vr. 22 mrt:
 
 3e tutorial of eigen mechanic af? in eigen branches gecommit en op github? afgewerkt met minimaal 3d art van assetstore of mixamo.
 
-### vr. 12 apr:
+### vr. 29 mrt:
 
 4 tutorial of eigen mechanic af? in eigen branches gecommit en op github? afgewerkt met minimaal 3d art van assetstore of mixamo.
 
-### Vr. 19 apr:
+### Vr. 12 apr:
 
 - 3 mechanics uitgewerkt tot een complete game. Met een gameloop, 3d art , animaties, particles, geluiden, prefabs
 - Omschrijving op je **Readme** van grootste technische uitdaging waar je tenenaan bent gelopen en stap voor stap hoe je dit uiteindelijk hebt opgelost.
