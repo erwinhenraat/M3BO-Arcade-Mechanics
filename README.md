@@ -6,7 +6,7 @@ In deze beroepsopdracht leren jullie, met behulp van verschillende game developm
 
 Tijdens de BO lessen zal er volop ruimte zijn voor jullie om aan de opdracht te werken en hier vragen over te stellen.
 
-De beroepsopdracht doe je in 2 tallen en de mechanics worden bij de docenten afgetekend nadat deze zijn gepushed op jullie eigen Github repository. Ieder werkt hierbij in een eigen branch. Iedere 2 weken moet je minimaal 1 mechanic af hebben of een huiswerk tutorial hebben afgerond.
+De beroepsopdracht doe je in 2 tallen en de mechanics worden bij de docenten afgetekend nadat deze zijn gepushed op jullie eigen Github repository. Ieder werkt hierbij in een eigen branch. Iedere week moet je minimaal 1 mechanic af hebben of een huiswerk tutorial hebben afgerond.
 
 Je moet minimaal 4 van de onderstaande tutorials hebben gevolgd en uitgewerkt tot een prototype. 3 verschillende mechanics, uit de tutorials of zelf bedacht, verwerk je tot een "kleine game". Zorg ervoor dat je de mechanics zo mooi mogelijk afwerkt door gebruik te maken van 3d assets uit de unity assetstore i.c.m eigen gemaakte 3d assets (uit de 3D lessen).
 
