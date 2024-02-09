@@ -21,6 +21,10 @@ Als je klaar bent laat je het ook zien.
 
 Als je vast zit vraag je om hulp!
 
+### 0. Bekijk de eerste 31:35 minuten van deze video
+
+[![basics](../tutorial_gfx/unity_basics.png)](https://www.youtube.com/watch?v=pwZpJzpE2lQ)
+
 ### 1. installeer unity HUB
 
 ![hub](https://user-images.githubusercontent.com/1262745/216940260-3ecdf60a-4cc5-444c-a402-06dd3459728a.png)
