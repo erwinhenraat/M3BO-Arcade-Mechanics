@@ -100,32 +100,32 @@ Jullie hebben aan het eind van elke BO blok beiden zelf gecommit op je eigen bra
 
 ### Tutorial 1
 
-[**_mixamo.com_** placeholder animaties aansturen](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_1)
+[**_mixamo.com_** placeholder animaties aansturen](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_1)
 
 ### Tutorial 2
 
-[Beweging en besturing van gameobjecten](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_2)
+[Beweging en besturing van gameobjecten](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_2)
 
 ### Tutorial 3
 
-[Springen op platforms (& traps)](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_3)
+[Springen op platforms (& traps)](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_3)
 
 ### Tutorial 4
 
-[Verzamelen van pickups en score bijhouden](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_4)
+[Verzamelen van pickups en score bijhouden](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_4)
 
 ### Tutorial 5
 
-[Schieten van kogels en vernietigen van obstakels](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_5)
+[Schieten van kogels en vernietigen van obstakels](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_5)
 
 ### Tutorial 6
 
-[Bijhouden van levens en creeeren van vijanden](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_6)
+[Bijhouden van levens en creeeren van vijanden](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_6)
 
 ### Tutorial 7
 
-[Verdieping in het springen](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_7)
+[Verdieping in het springen](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_7)
 
 ### Tutorial 8
 
-[Maak een exploding trap](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_8)
+[Maak een exploding trap](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_8)
