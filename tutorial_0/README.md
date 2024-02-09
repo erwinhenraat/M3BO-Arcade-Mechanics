@@ -23,7 +23,7 @@ Als je vast zit vraag je om hulp!
 
 ### 0. Bekijk de eerste 31:35 minuten van deze video
 
-[![basics](../tutorial_gfx/unity_basics.png)](https://youtu.be/pwZpJzpE2lQ?si=fPZ_pJ0_xX4SSfWC)
+[![basics](../tutorial_gfx/unity_basics.png)](https://youtu.be/pwZpJzpE2lQ?si=4GncqWjHaXYUy1kV)
 
 ### 1. installeer unity HUB
 
