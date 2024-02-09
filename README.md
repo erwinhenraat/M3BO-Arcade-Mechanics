@@ -96,7 +96,7 @@ Jullie hebben aan het eind van elke BO blok beiden zelf gecommit op je eigen bra
 
 ### Tutorial 0
 
-[Ontwikkelomgeving opzetten en simpele **_jump_** mechanic](https://github.com/erwinhenraat/M3PROG/tree/master/tutorial_0)
+[Ontwikkelomgeving opzetten en simpele **_jump_** mechanic](https://github.com/erwinhenraat//M3BO-Arcade-Mechanics/tree/master/tutorial_0)
 
 ### Tutorial 1
 
