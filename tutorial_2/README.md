@@ -177,7 +177,8 @@ void Start()
 ```
 void Update()
 {
-    float move = Time.deltaTime * speed * Input.GetAxis("Vertical");
+    Vector3 positionUpdate = transform.position + Input.GetAxis("Vertical") * transform.forward * speed * Time.deltaTime;
+
 
 ```
 
@@ -185,18 +186,17 @@ Check in de **Input Manager** (via edit > project settings) welke toetsen van in
 
 ![Input Manager](../tutorial_gfx/inputManager.png)
 
-### 23. Geef de snelheid door aan de velocity zodat je player gaat bewegen
+### 23. Geef de berekende snelheid door als nieuwe positie zodat je player gaat bewegen
 
 ```
-    rb.velocity = rb.transform.forward * move;
+    transform.position = positionUpdate;
 
 ```
 
 ### 24. Zorg ook voor de rotatie van je speler op basis van de input
 
 ```
-    float rot = Input.GetAxis("Horizontal") * rotSpeed * Time.deltaTime;
-    rb.transform.Rotate(new Vector3(0, rot, 0));
+    transform.Rotate(new Vector3(0, Input.GetAxis("Horizontal") * rotSpeed * Time.deltaTime, 0));
 }
 ```
 
