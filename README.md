@@ -105,7 +105,7 @@ Jullie hebben aan het eind van elke BO blok beiden zelf gecommit op je eigen bra
 ### Tutorial 2
 
 [Beweging en besturing van gameobjecten](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_2)
-
+[Video tutorial rondlopen en draaien](https://www.youtube.com/watch?v=8mukeQPGyV8)
 ### Tutorial 3
 
 [Springen op platforms (& traps)](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_3)
