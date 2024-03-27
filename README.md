@@ -128,6 +128,8 @@ Jullie hebben aan het eind van elke BO blok beiden zelf gecommit op je eigen bra
 
 [Verdieping in het springen](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_7)
 
+[Video tutorial springen met een aanpasbare gravity scale](https://youtu.be/Q35KLFQgL6c)
+
 ### Tutorial 8
 
 [Maak een exploding trap](https://github.com/erwinhenraat/M3BO-Arcade-Mechanics/tree/master/tutorial_8)
